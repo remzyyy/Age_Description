@@ -1,2 +1,3 @@
 # Age calculator _(HTML, CSS, Js)_
-![alt text](https://github.com/AkashKobal/web-development/blob/main/14.%20Age%20Calculator/output.png)
+-[My_Git-ID](https://github.com/remzyyy)
+-[My_Project](https://age-description.netlify.app/)
